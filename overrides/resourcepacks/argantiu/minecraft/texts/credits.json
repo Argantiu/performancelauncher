@@ -1,0 +1,179 @@
+[
+    {
+        "section": "\u00A7aArgantiu Performance",
+        "disciplines": [
+            {
+                "discipline": "\u00A7aMain Creator",
+                "titles": [
+                    {
+                        "title": "Argantiu Development",
+                        "names": [
+                            "Argantiu Client"
+                        ]
+                    }
+                ]
+            },
+            {
+                "discipline": "\u00A7aModification Creators (Performance)",
+                "titles": [
+                    {
+                        "title": "jellysqid3",
+                        "names": [
+                            "Sodium",
+                            "Lithium"
+                        ]
+                    },
+                    {
+                        "title": "coderbot",
+                        "names": [
+                            "Iris Shaders"
+                        ]
+                    },
+                    {
+                        "title": "astei",
+                        "names": [
+                            "LazyDFU"
+                        ]
+                    },
+                    {
+                        "title": "comp500",
+                        "names": [
+                            "Indium"
+                        ]
+                    },
+                    {
+                        "title": "RaphiMC",
+                        "names": [
+                            "ImmediatelyFast"
+                        ]
+                    },
+                    {
+                        "title": "malte0811",
+                        "names": [
+                            "FerriteCore"
+                        ]
+                    },
+                    {
+                        "title": "spottedleaf",
+                        "names": [
+                            "Starlight"
+                        ]
+                    },
+                    {
+                        "title": "juliand665",
+                        "names": [
+                            "Dynamic FPS"
+                        ]
+                    },
+                    {
+                        "title": "tr7zw",
+                        "names": [
+                            "Entity Culling"
+                        ]
+                    },
+                    {
+                        "title": "fxmorin",
+                        "names": [
+                            "Memory Leak Fix"
+                        ]
+                    },
+                    {
+                        "title": "kennytv",
+                        "names": [
+                            "Force Close Loading Screen"
+                        ]
+                    }
+                ]
+            },
+            {
+                "discipline": "\u00A7aModification Creators (Design & Mecanics)",
+                "titles": [
+                    {
+                        "title": "FlashyReese",
+                        "names": [
+                            "Reese's Sodium Options",
+                            "Sodium Extra"
+                        ]
+                    },
+                    {
+                        "title": "lamaprogramer",
+                        "names": [
+                            "Reimagined World Menu"
+                        ]
+                    },
+                    {
+                        "title": "henkelmax",
+                        "names": [
+                            "Simpel Voice Chat"
+                        ]
+                    },
+                    {
+                        "title": "Stereo528",
+                        "names": [
+                            "MainMenuChanger"
+                        ]
+                    },
+                    {
+                        "title": "keksuccino",
+                        "names": [
+                            "Load My Resources"
+                        ]
+                    },
+                    {
+                        "title": "Ennui",
+                        "names": [
+                            "Ok Zoomer"
+                        ]
+                    },
+                    {
+                        "title": "LambdAurora",
+                        "names": [
+                            "LambDynamicLights"
+                        ]
+                    },
+                    {
+                        "title": "ramidzkh",
+                        "names": [
+                            "Fabrishot"
+                        ]
+                    },
+                    {
+                        "title": "morimori0317",
+                        "names": [
+                            "Game Menu Remove GFARB"
+                        ]
+                    },
+                    {
+                        "title": "dima_dencep",
+                        "names": [
+                            "Remove Reloading Screen"
+                        ]
+                    }
+                ]
+            },
+            {
+                "discipline": "\u00A7aModification Creators (Librarys & APIs)",
+                "titles": [
+                    {
+                        "title": "Quilt-Holdings",
+                        "names": [
+                            "Quilted Fabric API (QFAPI)"
+                        ]
+                    },
+                    {
+                        "title": "shedaniel",
+                        "names": [
+                            "Cloth Config API"
+                        ]
+                    },
+                    {
+                        "title": "Motschen",
+                        "names": [
+                            "MidnightLib"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
