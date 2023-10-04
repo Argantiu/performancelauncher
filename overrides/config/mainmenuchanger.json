@@ -1,0 +1,11 @@
+{
+  "smallerSplash": true,
+  "changeCopyrightToC": true,
+  "includeYearInCopyright": false,
+  "modCount": false,
+  "disableRealmsButtonAndNotifs": true,
+  "disableSideButtons": true,
+  "mergeMultiAndSingle": false,
+  "versionTextEnum": "CUSTOM",
+  "customVersionString": "ArgantiuClient 1.0.0"
+}
