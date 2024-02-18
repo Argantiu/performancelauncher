@@ -27,6 +27,7 @@ The client also uses features to give the whole set a better look.</br>
   <li>Zoom with the C button</li>
   <li>High resolution screenshots (Full HD)</li>
   <li>Preconfigured shaders</li>
+  <li>Up to 60 chunks view distance</li>
 </ul>
   
 </div>
