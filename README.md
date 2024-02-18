@@ -23,22 +23,26 @@ The modpack uses various mods to remove useless icons and ugly buttons, text and
 
 <div align="center">
 The client also uses features to give the whole set a better look.</br>
-- Zoom with the C button </br>
-- High resolution screenshots (Full HD) </br>
-- Preconfigured shaders
+<ul>
+  <li>Zoom with the C button</li>
+  <li>High resolution screenshots (Full HD)</li>
+  <li>Preconfigured shaders</li>
+</ul>
+  
 </div>
 
-#### Preinstalled stuff
-   
-The modpack comes with preinstalled shaders and textures that work with Iris Shaders, but we won't tell you that here, just try it and have fun!  
+<h3> Tested with </h3>
+
+<div align="center">
+<h4> Computer </h4>
   
-;)
+13th Gen Intel(R) Core(TM) i7-13700K   3.40 GHz</br>
+NVIDIA GeForce RTX 4070</br>
+32GB RAM</br>
 
-### Tested with
+<h4> LapTop </h4>
 
-- AMD Ryzen 5 3500U with Radeon Vega Gfx 2.10 GHz
-- 8 GB RAM
+AMD Ryzen 5 3500U with Radeon Vega Gfx 2.10 GHz</br>
+8GB RAM</br>
 
-110 FPS (without shader on Fancy mode)
-30–60 FPS (with shader on Fancy mode)
 </div>
