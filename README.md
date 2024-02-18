@@ -40,7 +40,7 @@ The client also uses features to give the whole set a better look.</br>
 NVIDIA GeForce RTX 4070</br>
 32GB RAM</br>
 
-<h4> LapTop </h4>
+<h4> Laptop </h4>
 
 AMD Ryzen 5 3500U with Radeon Vega Gfx 2.10 GHz</br>
 8GB RAM</br>
